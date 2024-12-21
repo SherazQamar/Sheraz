@@ -182,11 +182,11 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com/sherazmaker",
+    github: "https://github.com/SherazQamar",
     // facebook: "https://facebook.com",
     linkedin: "https://www.linkedin.com/in/sheraz-qamar-farooqi-570592147/",
     // twitter: "https://twitter.com",
-    upwork: "#",
+    upwork: "https://www.upwork.com/freelancers/~0108ff2e51944b7993?viewMode=1",
 };
 export {
     meta,

@@ -1,4 +1,4 @@
-const logotext = "Sheraz_Qamar";
+const logotext = "Sheraz";
 const meta = {
     title: "Sheraz Qamar",
     description: "I’m Sheraz _ Full stack devloper,currently working in Berlin",
@@ -12,7 +12,7 @@ const introdata = {
         third: "I develop Custom Apps",
     },
     description: "Building Solutions, Empowering Growth — Your Full Stack Development Partner",
-    your_img_url: require('./assets/images/1.webp'),
+    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {

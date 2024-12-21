@@ -1,5 +1,5 @@
 {
-    "homepage": "https://sherazmaker.github.io/sheraz",
+    "homepage": "https://sherazqamar.github.io/Sheraz_Qamar",
     "name": "react-portfolio",
     "version": "0.1.0",
     "private": true,
@@ -24,7 +24,7 @@
         "eject": "react-scripts eject",
         "predeploy": "npm run build",
         "deploy": "gh-pages -d build"
-    },
+      },      
     "eslintConfig": {
         "extends": [
             "react-app",
@@ -42,5 +42,8 @@
             "last 1 firefox version",
             "last 1 safari version"
         ]
+    },
+    "devDependencies": {
+        "gh-pages": "^6.2.0"
     }
 }
